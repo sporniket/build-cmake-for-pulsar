@@ -1,6 +1,6 @@
 {
   "name": "build-cmake",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Generate and build cmake projects from within Atom.",
   "repository": "https://github.com/siegelaaron94/atom-build-cmake.git",
   "license": "MIT",
