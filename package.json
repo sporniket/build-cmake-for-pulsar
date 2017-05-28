@@ -21,7 +21,7 @@
     "build",
     "clang"
   ],
-  "main": "lib/cmake.js",
+  "main": "lib/cmake-build-provider.js",
   "dependencies": {
     "voucher": "^0.1.2",
     "glob": "^7.0.3"
