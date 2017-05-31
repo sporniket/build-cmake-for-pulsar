@@ -1,6 +1,6 @@
 {
   "name": "build-cmake",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "description": "Generate and build cmake projects from within Atom.",
   "repository": "https://github.com/siegelaaron94/atom-build-cmake.git",
   "license": "MIT",
@@ -16,8 +16,8 @@
     }
   },
   "devDependencies": {
-      "eslint": "^3.19.0",
-      "eslint-config-google": "^0.7.1"
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
   },
   "keywords": [
     "cmake",
