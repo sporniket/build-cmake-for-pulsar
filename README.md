@@ -1,3 +1,3 @@
 # CMake build system for Atom
 
-![Preview](https://raw.githubusercontent.com/siegelaaron94/atom-build-cmake/master/resources/preview.webm)
+![preview](https://cloud.githubusercontent.com/assets/6578840/26652684/991b5b84-4605-11e7-80be-ac90e393fda8.gif)
