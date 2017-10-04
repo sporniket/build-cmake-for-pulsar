@@ -26,6 +26,10 @@
   ],
   "main": "lib/cmake-build-provider.js",
   "dependencies": {
+    "atom-package-deps": "^4.6.0",
     "glob": "^7.0.3"
-  }
+  },
+  "package-deps": [
+    "build"
+  ]
 }
