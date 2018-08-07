@@ -4,6 +4,7 @@
   "description": "Generate and build cmake projects from within Atom.",
   "repository": "https://github.com/siegelaaron94/atom-build-cmake.git",
   "license": "MIT",
+  "main": "lib/main.js",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
@@ -11,25 +12,19 @@
     "builder": {
       "description": "Runs cmake",
       "versions": {
-        "2.0.0": "providingFunction"
+        "2.0.0": "provideCMake"
       }
     }
   },
   "devDependencies": {
-    "eslint": "^3.19.0",
-    "eslint-config-google": "^0.7.1"
+    "eslint": "^5.2.0"
   },
   "keywords": [
     "cmake",
     "build",
     "clang"
   ],
-  "main": "lib/cmake-build-provider.js",
   "dependencies": {
-    "atom-package-deps": "^4.6.0",
     "glob": "^7.0.3"
-  },
-  "package-deps": [
-    "build"
-  ]
+  }
 }
