@@ -1,7 +1,9 @@
 # CMake build system for Atom
 
+> This is a fork of https://github.com/siegelaaron94/atom-build-cmake
+
 ## Dependencies
-This package requires the [atom-build](https://github.com/noseglid/atom-build) to be installed.
+This package requires the [atom-build](https://github.com/noseglid/atom-build) or its fork [buildium](https://github.com/atom-community/buildium) to be installed and operate succesfully.
 
 ## Preview
 ![preview](https://cloud.githubusercontent.com/assets/6578840/26652684/991b5b84-4605-11e7-80be-ac90e393fda8.gif)

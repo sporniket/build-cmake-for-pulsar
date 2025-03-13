@@ -1,8 +1,8 @@
 {
-  "name": "build-cmake",
+  "name": "build-cmake-for-pulsar-by-sporniket",
   "version": "0.12.0",
-  "description": "Generate and build cmake projects from within Atom.",
-  "repository": "https://github.com/siegelaaron94/atom-build-cmake.git",
+  "description": "[Fork of atom-build-cmake] Generate and build cmake projects from within Pulsar.",
+  "repository": "https://github.com/sporniket/build-cmake-for-pulsar",
   "license": "MIT",
   "main": "lib/main.js",
   "engines": {
