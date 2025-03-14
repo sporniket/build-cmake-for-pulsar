@@ -3,7 +3,7 @@
   "version": "0.12.2",
   "description": "[Fork of atom-build-cmake] Generate and build cmake projects from within Pulsar.",
   "repository": "https://github.com/sporniket/build-cmake-for-pulsar",
-  "license": "MIT",
+  "license": "MIT and GPL-3.0-or-later",
   "main": "lib/main.js",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
