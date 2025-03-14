@@ -1,6 +1,9 @@
 # CMake build system for Atom
 
 > This is a fork of https://github.com/siegelaaron94/atom-build-cmake
+>
+> Source files that were existing before the fork are licenced under MIT licence.
+> New source files created since the fork are licenced under the GPLv3 or later version licence.
 
 ## Dependencies
 This package requires the [atom-build](https://github.com/noseglid/atom-build) or its fork [buildium](https://github.com/atom-community/buildium) to be installed and operate succesfully.
