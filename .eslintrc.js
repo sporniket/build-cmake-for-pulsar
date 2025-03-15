@@ -62,7 +62,7 @@ module.exports = {
         "keyword-spacing": ["error", { "after": true, "before": true }],
         "space-unary-ops": ["error", { "words": true, "nonwords": false }],
         "yoda": ["error", "never"],
-        "indent": ["error", "tab"],
+        "indent": ["error", 4],
         "linebreak-style": ["error", "unix"],
         "quotes": ["error", "single"],
         "semi": ["error", "always"],

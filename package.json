@@ -17,7 +17,8 @@
     }
   },
   "devDependencies": {
-    "eslint": "^5.2.0"
+    "eslint": "^8.0.0",
+    "js-beautify": "^1.15.0"
   },
   "keywords": [
     "cmake",
@@ -26,5 +27,11 @@
   ],
   "dependencies": {
     "glob": "^7.0.3"
+  },
+  "scripts": {
+    "format": "js-beautify --replace lib/*.js",
+    "lint": "eslint lib/*.js",
+    "lint-try-fix": "eslint --fix-dry-run lib/*.js",
+    "lint-fix": "eslint --fix lib/*.js"
   }
 }
