@@ -32,8 +32,8 @@
   "scripts": {
     "format": "js-beautify --replace lib/*.js tests/*.js",
     "lint": "eslint lib/*.js",
-    "lint-try-fix": "eslint --fix-dry-run lib/*.js",
-    "lint-fix": "eslint --fix lib/*.js",
+    "lint-try-fix": "eslint --fix-dry-run lib/*.js tests/*.js",
+    "lint-fix": "eslint --fix lib/*.js tests/*.js",
     "test": "jest --config=.jest.config.js"
   }
 }

@@ -17,7 +17,8 @@ module.exports = {
         "atom": true,
         "describe": true,
         "it": true,
-        "expect": true
+        "expect": true,
+        "test": true
     },
     "rules": {
         "no-caller": "error",
