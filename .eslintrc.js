@@ -18,7 +18,8 @@ module.exports = {
         "describe": true,
         "it": true,
         "expect": true,
-        "test": true
+        "test": true,
+        "jest": true
     },
     "rules": {
         "no-caller": "error",
@@ -47,6 +48,7 @@ module.exports = {
         "no-undef-init": "error",
         "no-underscore-dangle": "error",
         "no-unused-expressions": "error",
+        "no-unused-vars": "warn",
         "no-use-before-define": "error",
         "no-with": "error",
         "camelcase": "error",

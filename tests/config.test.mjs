@@ -1,5 +1,6 @@
-const config = require('../lib/config.js');
+import {jest} from '@jest/globals';
 
+import * as config from '../lib/config.js';
 /* SPDX-License-Identifier: GPL-3.0-or-later */
 /****************************************
 
