@@ -8,6 +8,26 @@
 ## Dependencies
 This package requires the [atom-build](https://github.com/noseglid/atom-build) or its fork [buildium](https://github.com/atom-community/buildium) to be installed and operate succesfully.
 
+
+## What's new
+
+### 0.12.4
+
+Technical refactoring for watching the configuration of the plugin.
+
+### 0.12.3
+
+Put proper copyright notice on source files, prepare licencing of new files under GPLv3 or later.
+
+### 0.12.2
+
+* Resolves #2 : [rework] enumerations of generators
+
+### 0.12.1
+
+* Fixed : use 'atom.project.onDidChangeFiles(...)' instead of 'fs.watch(...)'
+
+
 ## Preview
 ![preview](https://cloud.githubusercontent.com/assets/6578840/26652684/991b5b84-4605-11e7-80be-ac90e393fda8.gif)
 
