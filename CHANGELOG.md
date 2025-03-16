@@ -4,6 +4,10 @@
 
 > This section list the releases by anti-chronological order, from the most recent to the oldest.
 
+## 0.12.4
+
+Technical refactoring for watching the configuration of the plugin.
+
 ## 0.12.3
 
 Put proper copyright notice on source files, prepare licencing of new files under GPLv3 or later.
