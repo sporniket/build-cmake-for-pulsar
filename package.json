@@ -28,7 +28,7 @@
     "clang"
   ],
   "dependencies": {
-    "config-loader-base-by-sporniket": "^0.0.3",
+    "config-helper-for-pulsar-by-sporniket": "^0.0.1",
     "glob": "^7.0.3"
   },
   "scripts": {
