@@ -4,6 +4,10 @@
 
 > This section list the releases by anti-chronological order, from the most recent to the oldest.
 
+## 0.12.5
+
+Migrated to an external library to manage the configuration from atom.
+
 ## 0.12.4
 
 Technical refactoring for watching the configuration of the plugin.

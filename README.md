@@ -11,6 +11,10 @@ This package requires the [atom-build](https://github.com/noseglid/atom-build) o
 
 ## What's new
 
+### 0.12.5
+
+Migrated to an external library to manage the configuration from atom.
+
 ### 0.12.4
 
 Technical refactoring for watching the configuration of the plugin.
