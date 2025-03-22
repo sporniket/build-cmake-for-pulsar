@@ -11,7 +11,9 @@ This package requires the [atom-build](https://github.com/noseglid/atom-build) o
 
 ## What's new
 
-### 0.12.5
+### 0.12.5 and 0.12.6
+
+> Version 0.12.5 was skipped due to a wrong manipulation.
 
 Migrated to an external library to manage the configuration from atom.
 
